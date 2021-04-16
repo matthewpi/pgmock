@@ -7,7 +7,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/jackc/pgmock/pgmockproxy/proxy"
+	"github.com/matthewpi/pgmock/pgmockproxy/proxy"
 )
 
 var options struct {
